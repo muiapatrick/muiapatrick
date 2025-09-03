@@ -1,5 +1,4 @@
-# Hi, I'm Patrick Mbuvi 👋  
-![Profile Views](https://komarev.com/ghpvc/?username=muiapatrick&label=Profile%20views&color=0e75b6&style=flat)
+# Hi, I'm Patrick Mbuvi 👋  ![Profile Views](https://komarev.com/ghpvc/?username=muiapatrick&label=Profile%20views&color=0e75b6&style=flat)
 
 🚀 **Senior Software Engineer | Java (Spring Boot) | Mobile Developer(Flutter|Android|Firebase) | Angular | DevOps | Database (PostgreSQL|MySQL|MongoDB)**  
 
